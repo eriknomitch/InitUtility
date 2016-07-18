@@ -1,0 +1,21 @@
+{
+  "name": "InitUtility",
+  "keywords": "utility, init",
+  "description": "Basic utility helpers for pins and initialization.",
+  "repository":
+  {
+      "type": "git",
+      "url": "https://github.com/eriknomitch/InitUtility.git",
+  },
+  "version": "0.0.1",
+  "frameworks": "arduino",
+  "platforms": "atmelavr",
+  "authors" :
+  [
+    {
+      "name":"Erik Nomitch",
+      "email":"enomitch@gmail.com"
+    }
+  ]
+}
+
